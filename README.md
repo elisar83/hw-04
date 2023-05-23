@@ -28,6 +28,10 @@
 Проверьте что node exporter запускается, останавливается, перезапускается и отображает статус с помощью systemctl
 Требования к результату
 Прикрепите к файлу README.md скриншот systemctl status node-exporter, где будет написано: node-exporter.service — Node Exporter Netology Lesson 9.4 — [Ваши ФИО]
+
+### Ответ
+
+![image](https://github.com/elisar83/hw-04/assets/122297912/aa44197d-2d06-4e33-92d7-86be889eb237)
  
 
 ### Задание 3
@@ -41,3 +45,9 @@
 Требования к результату
 Прикрепите к файлу README.md скриншот конфигурации из интерфейса Prometheus вкладки Status > Configuration
 Прикрепите к файлу README.md скриншот из интерфейса Prometheus вкладки Status > Targets, чтобы было видно минимум два эндпоинта
+
+### Ответ
+
+![image](https://github.com/elisar83/hw-04/assets/122297912/e6ccdeb1-475a-4100-af48-23b792752e6b)
+
+
