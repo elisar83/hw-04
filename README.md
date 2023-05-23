@@ -31,7 +31,7 @@
 
 ### Ответ
 
-![image](https://github.com/elisar83/hw-04/assets/122297912/aa44197d-2d06-4e33-92d7-86be889eb237)
+![image](https://github.com/elisar83/hw-04/assets/122297912/41002d46-0493-49e8-bade-f8d9437684cb)
  
 
 ### Задание 3
