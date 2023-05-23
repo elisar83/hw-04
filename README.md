@@ -49,5 +49,6 @@
 ### Ответ
 
 ![image](https://github.com/elisar83/hw-04/assets/122297912/e6ccdeb1-475a-4100-af48-23b792752e6b)
+![image](https://github.com/elisar83/hw-04/assets/122297912/d00afba8-7d5e-4d0d-8199-f01f5b4cbe13)
 
 
