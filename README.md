@@ -12,7 +12,10 @@
 Проверьте что prometheus запускается, останавливается, перезапускается и отображает статус с помощью systemctl
 Требования к результату
 Прикрепите к файлу README.md скриншот systemctl status prometheus, где будет написано: prometheus.service — Prometheus Service Netology Lesson 9.4 — [Ваши ФИО]
- 
+
+## Ответ
+![Uploading image.png…]()
+
 
 ### Задание 2
 Установите Node Exporter.
